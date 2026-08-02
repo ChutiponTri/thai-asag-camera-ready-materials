@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+
+title: "Supplementary Materials for: Assessing LLM Performance in Automated Short Answer Grading for Thai Written Exams: An Adversarial Evaluation"
+
+message: "Please cite the accompanying ICCE 2026 paper when using these supplementary materials."
+
+type: dataset
+
+authors:
+  - family-names: TRIRATTANANURAK
+    given-names: Chutipon
+
+  - family-names: USANAVASIN
+    given-names: Sasiporn
+
+  - family-names: LAITRAKUN
+    given-names: Seksan
+
+  - family-names: PRAKAYAPHUN
+    given-names: Titipakorn
+
+  - family-names: THEERAMUNKONG
+    given-names: Thanaruk
+
+  - family-names: SUPNITHI
+    given-names: Thepchai
+
+repository-code: "https://github.com/ChutiponTri/thai-asag-camera-ready-materials"
+
+license: "CC-BY-4.0"
