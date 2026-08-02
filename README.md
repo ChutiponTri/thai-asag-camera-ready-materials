@@ -21,7 +21,3 @@ The repository provides the materials required to facilitate the reproducibility
 - Adversarial-response construction protocol
 - Example grading cases
 - Supplementary document
-
-## Citation
-
-If you use these materials, please cite the corresponding ICCE 2026 paper.
