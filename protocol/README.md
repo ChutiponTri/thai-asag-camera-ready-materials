@@ -7,5 +7,9 @@ The protocols are intended to facilitate reproducibility of the evaluation pipel
 Contents
 
 • Evaluation protocol
+
 • Adversarial-response construction
+
 • Reason code annotation
+
+• Experimental Design
