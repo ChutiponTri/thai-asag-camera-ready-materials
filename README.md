@@ -1,5 +1,7 @@
 # Supplementary Materials
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21762005.svg)](https://doi.org/10.5281/zenodo.21762005)
+
 This repository contains the supplementary materials accompanying the paper
 
 **"Assessing LLM Performance in Automated Short Answer Grading for Thai Written Exams: An Adversarial Evaluation"**
